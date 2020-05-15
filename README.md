@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/RIDEONSTYLEAPP/api.svg?style=svg&circle-token=f1893fbe56b3166e9956aad932e8c13080685501)](https://circleci.com/gh/RIDEONSTYLEAPP/api)
+[![CircleCI](https://circleci.com/gh/RIDEONSTYLEAPP/api.svg?style=shield&circle-token=f1893fbe56b3166e9956aad932e8c13080685501)](https://circleci.com/gh/RIDEONSTYLEAPP/api)
 
 # api
 The backend API code is handled here. 
