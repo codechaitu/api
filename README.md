@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/kouzoh/mercari-campaign-jp.svg?style=svg&circle-token=de46a3b94b0cf0b6cfa36908184dd14e66fbf320)](https://circleci.com/gh/RIDEONSTYLE/api)
+[![CircleCI](https://circleci.com/gh/RIDEONSTYLEAPP/api.svg?style=svg&circle-token=f1893fbe56b3166e9956aad932e8c13080685501)](https://circleci.com/gh/RIDEONSTYLEAPP/api)
+
 # api
 The backend API code is handled here. 
 
