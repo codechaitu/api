@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/rideonstyle/api/config"
-	"github.com/rideonstyle/api/errors"
-	"github.com/rideonstyle/api/server"
+	"github.com/codechaitu/api/config"
+	"github.com/codechaitu/api/errors"
+	"github.com/codechaitu/api/server"
 	"go.uber.org/zap"
 )
 
