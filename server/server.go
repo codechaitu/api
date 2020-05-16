@@ -7,8 +7,8 @@ import (
 	"os/signal"
 
 	"github.com/gin-gonic/gin"
-	"github.com/rideonstyle/api/config"
-	"github.com/rideonstyle/api/errors"
+	"github.com/codechaitu/api/config"
+	"github.com/codechaitu/api/errors"
 	"go.uber.org/zap"
 )
 
