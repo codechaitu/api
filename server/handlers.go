@@ -7,5 +7,5 @@ import (
 )
 
 func landingPage(c *gin.Context) {
-	c.String(http.StatusOK, "Hello, I am chaitu. The API Developer")
+	c.String(http.StatusOK, "Hello, I am chaitu. The API Developer. I will doing this tutorial.")
 }
